@@ -1,0 +1,14 @@
+{
+    "name": "smittylwh/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Smitty lwh",
+            "email": "283831318@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
